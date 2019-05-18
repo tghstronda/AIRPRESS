@@ -1,0 +1,24 @@
+Trabalho Banco de dados 
+
+mysql
+postgresql, sq server, sql lite 
+
+
+Renan, Edson, james = sqlLite
+
+*criar uma aplicação, ultilizando de preferencia um banco de dados em forma de container 
+*Organização de projeto
+*Deploy(COLOCAR A PLICAÇÃO EM PRODUÇÃO) de aplicação
+*Uso do Git - Documentação no git
+*De preferencia web 
+*Preferencia umas 10 tela 
+*Criar a aplicação fazando ela rodar no doquer 
+*Qualquer outro recurso não citado(redis=SERVISOR PARA FAZER CASH)
+*Apresentação do projeto
+*Ate o dia 17/05, atualizar as Versoes no GIT, JUNTO COM DOCUMENTAÇAÕ
+*DEFINIÇÃO DA ORDEM DE APRESENTAÇÃO
+
+-07/06
+
+
+AMAZON AWS
